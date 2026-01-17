@@ -128,6 +128,4 @@ vector_search/
 
 MIT License. Feel free to use this in your own projects.
 
-```
-
 
