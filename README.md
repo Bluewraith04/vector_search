@@ -1,4 +1,4 @@
-```markdown
+
 # Vector Search 
 
 [![Rust](https://img.shields.io/badge/built_with-Rust-dca282.svg)](https://www.rust-lang.org/)
@@ -130,4 +130,4 @@ MIT License. Feel free to use this in your own projects.
 
 ```
 
-```
+
